@@ -30,3 +30,8 @@ if ($ { idade } >= 18) {
 } else {
     console.log('retorne assim que fizer 18 anos')
 }
+
+//PRECEDÊNCIA entre todos os operadores: aritméticos, relacionais/comparativos/ e lógicos//
+// primeiro aritmeticos
+// segundo relacionais
+// terceiro logicos
